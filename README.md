@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Khoa 👋
 
-<!--
-**froggy-tech/froggy-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a Backend Developer
+- 🌱 I’m currently learning to be a DevOps Engineer
+- 💬 Ask me about Java, Go, and Cloud Computing stuff
+- 👔 How to reach me: [linkedin]
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+<p align="center">
+	<a href="https://www.linkedin.com/in/khoa-banh-28502b229"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/khoa-banh-28502b229/
